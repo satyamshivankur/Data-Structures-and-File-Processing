@@ -34,7 +34,7 @@ class Record:
                  None
         '''
         return self.key
-
+    
 def writeRecord():
     '''
     OBJECTIVE :  To write records a givenFile
